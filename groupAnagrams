@@ -1,0 +1,10 @@
+class Solution(object):
+    def groupAnagrams(self, strs):
+        anagrams = {}
+        for str1 in strs:
+            sorted_str = ''.join(sorted(str1))
+            if sorted_str in anagrams:
+                anagrams[sorted_str].append(str1)
+            else:
+                anagrams[sorted_str] = [str1]
+        return list(anagrams.values()) 
