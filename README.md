@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh2492004/LeetCode/tree/master/0001-two-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh2492004/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
