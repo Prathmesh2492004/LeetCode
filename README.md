@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh2492004/LeetCode/tree/master/0001-two-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathmesh2492004/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathmesh2492004/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -50,9 +51,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathmesh2492004/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathmesh2492004/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathmesh2492004/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathmesh2492004/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
