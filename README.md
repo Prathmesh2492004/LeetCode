@@ -87,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Prathmesh2492004/LeetCode/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prathmesh2492004/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
