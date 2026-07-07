@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prathmesh2492004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Prathmesh2492004/LeetCode/tree/master/0012-integer-to-roman) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathmesh2492004/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
