@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Prathmesh2492004/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathmesh2492004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prathmesh2492004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Prathmesh2492004/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathmesh2492004/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -94,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/Prathmesh2492004/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prathmesh2492004/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
