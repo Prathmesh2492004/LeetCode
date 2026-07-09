@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh2492004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Prathmesh2492004/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Prathmesh2492004/LeetCode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Prathmesh2492004/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathmesh2492004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prathmesh2492004/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh2492004/LeetCode/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathmesh2492004/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
 |  |
@@ -104,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prathmesh2492004/LeetCode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prathmesh2492004/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
