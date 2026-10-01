@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh2492004/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh2492004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prathmesh2492004/LeetCode/tree/master/0011-container-with-most-water) |
 | [1288-remove-covered-intervals](https://github.com/Prathmesh2492004/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathmesh2492004/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh2492004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathmesh2492004/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Prathmesh2492004/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh2492004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
